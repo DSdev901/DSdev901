@@ -1,0 +1,37 @@
+// <div className='project-container'>
+// <div className="project-div left">left</div>
+// <div className="project-div center">center</div>
+// <div className="project-div right">right</div>
+
+// </div>
+
+// ;
+
+
+.project-container{
+  height: 40vw;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+  width: auto;
+
+  .project-div{
+    vertical-align: middle;
+    display: inline-block;
+
+  }
+
+  .project-div.left{
+float: left;
+  }
+
+  .project-div.center{
+    float: left;
+      }
+    
+
+  .project-div.right{
+    float:left;
+  }
+}

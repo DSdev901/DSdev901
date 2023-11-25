@@ -1,0 +1,407 @@
+@import url("https://fonts.googleapis.com/css2?family=Tangerine:wght@400&display=swap");
+html {
+  height: 100%;
+  font-family: arial !important;
+}
+
+html body {
+  height: 100%;
+  width: 100%;
+  background-color: none !important;
+  background: none !important;
+  overflow-x: hidden;
+}
+
+html .no-gutter > [class*=col-] {
+  padding-right: 0;
+  padding-left: 0;
+  overflow-x: hidden;
+}
+
+.no-pad {
+  padding: 0;
+}
+
+.side-nav {
+  padding: 0 !important;
+  height: 100%;
+}
+
+.side-nav .side-content {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.85);
+  height: 100%;
+  width: inherit;
+}
+
+.side-nav .side-content .list-group-item {
+  color: white;
+  background: none !important;
+  border-right: none;
+  border-left: none;
+  border-top: 0.01rem solid rgb(110, 110, 110);
+  font-size: 1.2rem;
+}
+
+.side-nav .side-content .list-group-item .logo {
+  font-size: 5rem;
+  font-weight: 500;
+  line-height: 7.5rem;
+  width: 8.75rem;
+  height: 8rem;
+  margin: 1.5rem auto;
+  text-align: center;
+  background: linear-gradient(to right, rgb(8, 253, 216) 0.06rem, transparent 0.06rem) 0 0, linear-gradient(to right, rgb(8, 253, 216) 0.06rem, transparent 0.06rem) 0 100%, linear-gradient(to left, rgb(8, 253, 216) 0.06rem, transparent 0.06rem) 100% 0, linear-gradient(to left, rgb(8, 253, 216) 0.06rem, transparent 0.06rem) 100% 100%, linear-gradient(to bottom, rgb(8, 253, 216) 0.06rem, transparent 0.06rem) 0 0, linear-gradient(to bottom, rgb(8, 253, 216) 0.06rem, transparent 0.06rem) 100% 0, linear-gradient(to top, rgb(8, 253, 216) 0.06rem, transparent 0.06rem) 0 100%, linear-gradient(to top, rgb(8, 253, 216) 0.06rem, transparent 0.06rem) 100% 100%;
+  background-repeat: no-repeat;
+  background-size: 0.9rem 0.9rem;
+}
+
+.side-nav .side-content .list-group-item .logo .list-group-item {
+  padding: 0;
+}
+
+.main-content {
+  position: relative;
+  height: 100%;
+  width: 75%;
+  background: url("../../images/banner.jpg") no-repeat center top fixed rgba(48, 44, 44, 0.35);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.container-divider {
+  border-top: 0.01rem solid rgba(24, 24, 24, 0.85);
+}
+
+.large-text {
+  font-size: calc(1.425rem + 2.1vw) !important;
+  font-style: bold;
+}
+
+@media (min-width: 1200px) {
+  .large-text {
+    font-size: 3rem !important;
+  }
+}
+.grey-bk {
+  background-color: grey;
+}
+
+.cursive {
+  font-family: tangerine, cursive !important;
+}
+
+.banner-space {
+  height: 100vh;
+  width: 100%;
+  background-color: transparent;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.banner-container {
+  text-align: center;
+  vertical-align: center;
+  width: 66%;
+  padding-top: 33vh;
+  margin: 0 auto;
+  color: white;
+  filter: drop-shadow(1vw #070707);
+}
+
+.banner-top {
+  font-size: 7.14vw;
+  margin-left: -0.6vw;
+  line-height: 6.5vw;
+  text-align: center;
+}
+
+.banner-bottom {
+  margin: 0 auto;
+}
+
+.banner-txt {
+  font-family: arial;
+  font-style: bold;
+  text-align: center;
+}
+
+.banner-txt .und_score {
+  font-size: calc(1.325rem + 0.9vw);
+}
+
+@media (min-width: 1200px) {
+  .banner-txt .und_score {
+    font-size: 2rem;
+  }
+}
+.banner-small {
+  font-size: 1.75vw;
+  padding-top: 1vw;
+  font-family: arial;
+  text-align: center;
+  width: 56vw;
+  border-top: 0.3vw solid white;
+  margin: 0 0 0 -1vw;
+}
+
+.no-pad {
+  padding: 0 !important;
+}
+
+.white-bkg {
+  background-color: white;
+}
+
+.content {
+  padding: 15px !important;
+}
+
+.red {
+  color: rgb(8, 253, 216);
+}
+
+.expand {
+  background-color: #f8f9fa !important;
+  border-bottom: 1px solid grey !important;
+  color: black !important;
+}
+
+.expand .large-text {
+  color: black !important;
+}
+
+.bg-transparent {
+  font-family: Arial;
+  background-color: transparent !important;
+  border-bottom: 0;
+  color: white !important;
+  margin: 0;
+  width: 100%;
+  padding: 0 1vw !important;
+  transition: background-color 0.4s ease-in-out;
+}
+
+.bg-transparent .change-link {
+  color: white !important;
+  font-size: 0.35rem;
+  padding-bottom: 0.45rem !important;
+}
+
+.bg-transparent .navbar-brand {
+  margin-right: 0.4rem !important;
+  margin-bottom: -0.1rem !important;
+}
+
+.bg-transparent .navbar-brand .change-link {
+  font-size: 0.63rem;
+  padding-bottom: 0.1rem !important;
+  color: black;
+  font-style: bold;
+}
+
+.bg-transparent .red {
+  font-size: 0.68rem;
+  padding-bottom: 0.07rem !important;
+}
+
+.nav .navbar-light .navbar-nav .active > .nav-link,
+.nav .navbar-light .navbar-nav .nav-link.active,
+.nav .navbar-light .navbar-nav .nav-link.show,
+.nav .navbar-light .navbar-nav .show > .nav-link {
+  color: white;
+}
+
+.about-space {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.95);
+  text-align: left;
+}
+
+.about-space .about-content .about-header {
+  font-size: calc(1.425rem + 2.1vw) !important;
+  font-weight: bolder;
+  text-align: center;
+  border-bottom: 0.05rem solid black;
+  border-right: 0.05rem solid black;
+  border-left: 0.05rem solid black;
+  margin: 0 auto;
+  display: block;
+  width: 13rem;
+}
+
+@media (min-width: 1200px) {
+  .about-space .about-content .about-header {
+    font-size: 3rem !important;
+  }
+}
+@media (max-width: 992px) {
+  .about-space .about-content .about-header {
+    margin: 0 auto;
+    border-left: 0.05rem solid black;
+  }
+}
+.about-space .about-content .about-details, .about-space .about-content .skill-details {
+  text-align: center;
+  line-height: 3.5rem;
+  color: black;
+  font-weight: 490;
+  margin: 0 auto;
+  list-style-type: none;
+  padding: calc(1.255rem + 0.06vw) 0 calc(1.365rem + 1.38vw) 0;
+  font-size: 1.25rem;
+}
+
+@media (min-width: 1200px) {
+  .about-space .about-content .about-details, .about-space .about-content .skill-details {
+    padding: 1.3rem 0 2.4rem 0;
+  }
+}
+.about-space .about-content .about-details td img, .about-space .about-content .skill-details td img {
+  width: 6rem;
+  text-align: right;
+  float: right;
+  padding: 0 1rem;
+  border-left: 0.05rem solid darkslategray;
+}
+
+@media (max-width: 1900px) {
+  .about-space .about-content .about-details, .about-space .about-content .skill-details {
+    font-size: calc(1.255rem + 0.06vw);
+  }
+}
+@media (max-width: 1900px) and (min-width: 1200px) {
+  .about-space .about-content .about-details, .about-space .about-content .skill-details {
+    font-size: 1.3rem;
+  }
+}
+@media (max-width: 1588px) {
+  .about-space .about-content .about-details, .about-space .about-content .skill-details {
+    font-size: calc(1.26rem + 0.12vw);
+  }
+}
+@media (max-width: 1588px) and (min-width: 1200px) {
+  .about-space .about-content .about-details, .about-space .about-content .skill-details {
+    font-size: 1.35rem;
+  }
+}
+@media (max-width: 1450px) {
+  .about-space .about-content .about-details, .about-space .about-content .skill-details {
+    font-size: 1rem;
+  }
+}
+@media (max-width: 992px) {
+  .about-space .about-content .about-details, .about-space .about-content .skill-details {
+    font-size: calc(1.265rem + 0.18vw);
+    text-align: left;
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
+}
+@media (max-width: 992px) and (min-width: 1200px) {
+  .about-space .about-content .about-details, .about-space .about-content .skill-details {
+    font-size: 1.4rem;
+  }
+}
+.about-space .about-content .skill-details {
+  width: 60%;
+  margin-bottom: 2.4rem;
+  text-align: left;
+  margin: 0 auto;
+}
+
+@media (max-width: 992px) {
+  .about-space .about-content .skill-details {
+    font-size: calc(1.265rem + 0.18vw);
+    text-align: left;
+    width: 100%;
+    padding: 1rem;
+    margin: 0;
+  }
+}
+@media (max-width: 992px) and (min-width: 1200px) {
+  .about-space .about-content .skill-details {
+    font-size: 1.4rem;
+  }
+}
+.about-space .about-content .skill-details .side-a {
+  float: left;
+  width: 50%;
+  text-align: left;
+  padding-right: 2rem;
+  padding-left: 29%;
+}
+
+.about-space .about-content .skill-details .side-b {
+  float: left;
+  width: 50%;
+  padding-left: 3%;
+}
+
+/* SOCIAL STUFF */
+.social-container {
+  background: #f5f6fa;
+  padding: 25px 50px;
+  font-size: 0.4rem;
+}
+
+a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: translateY(-2px);
+}
+
+a.youtube {
+  color: rgb(18, 141, 179);
+}
+
+a.facebook {
+  color: rgb(18, 141, 179);
+}
+
+a.twitter {
+  color: rgb(18, 141, 179);
+}
+
+a.instagram {
+  color: rgb(18, 141, 179);
+}
+
+.project-container {
+  height: 40vw;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+  width: auto;
+}
+
+.project-container .project-div {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.project-container .project-div.left {
+  float: left;
+}
+
+.project-container .project-div.center {
+  float: left;
+}
+
+.project-container .project-div.right {
+  float: left;
+}
+
+
+
+/*# sourceMappingURL=main.css.map */
