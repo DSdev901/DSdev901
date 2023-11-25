@@ -2,6 +2,7 @@
   "name": "my_portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "ttp://dsdev901.github.io/dsdev901.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-brands-svg-icons": "^6.2.1",
@@ -25,7 +26,9 @@
     "start": "WATCHPACK_POLLING=true react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -46,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.0",
     "sass": "^1.55.0"
   }
 }
