@@ -17,9 +17,9 @@
   "static/media/css-svgrepo-com.svg": "./static/media/css-svgrepo-com.5bc184d4.svg",
   "static/media/html-svgrepo-com.svg": "./static/media/html-svgrepo-com.70d93bdc.svg",
   "static/media/mongodb-svgrepo-com.svg": "./static/media/mongodb-svgrepo-com.b94156fc.svg",
-  "static/css/2.d44b4c4a.chunk.css.map": "./static/css/2.d44b4c4a.chunk.css.map",
   "static/css/main.9e5c0765.chunk.css.map": "./static/css/main.9e5c0765.chunk.css.map",
+  "static/css/2.d44b4c4a.chunk.css.map": "./static/css/2.d44b4c4a.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.edea3135a2f009e611db08ae133b7d88.js": "./precache-manifest.edea3135a2f009e611db08ae133b7d88.js",
+  "precache-manifest.8c1bffa2bf7de45da85da80f2b0069cc.js": "./precache-manifest.8c1bffa2bf7de45da85da80f2b0069cc.js",
   "service-worker.js": "./service-worker.js"
 }
