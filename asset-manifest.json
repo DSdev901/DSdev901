@@ -1,12 +1,12 @@
 {
   "main.css": "./static/css/main.9e5c0765.chunk.css",
-  "main.js": "./static/js/main.5470a08e.chunk.js",
-  "main.js.map": "./static/js/main.5470a08e.chunk.js.map",
+  "main.js": "./static/js/main.96eaae33.chunk.js",
+  "main.js.map": "./static/js/main.96eaae33.chunk.js.map",
   "static/js/1.e04cd450.chunk.js": "./static/js/1.e04cd450.chunk.js",
   "static/js/1.e04cd450.chunk.js.map": "./static/js/1.e04cd450.chunk.js.map",
   "static/css/2.d44b4c4a.chunk.css": "./static/css/2.d44b4c4a.chunk.css",
-  "static/js/2.f1d943bf.chunk.js": "./static/js/2.f1d943bf.chunk.js",
-  "static/js/2.f1d943bf.chunk.js.map": "./static/js/2.f1d943bf.chunk.js.map",
+  "static/js/2.a61989d3.chunk.js": "./static/js/2.a61989d3.chunk.js",
+  "static/js/2.a61989d3.chunk.js.map": "./static/js/2.a61989d3.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.274e1e54.js",
   "runtime~main.js.map": "./static/js/runtime~main.274e1e54.js.map",
   "static/media/bot-svgrepo-com.svg": "./static/media/bot-svgrepo-com.35b2477e.svg",
@@ -20,6 +20,6 @@
   "static/css/main.9e5c0765.chunk.css.map": "./static/css/main.9e5c0765.chunk.css.map",
   "static/css/2.d44b4c4a.chunk.css.map": "./static/css/2.d44b4c4a.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.f45a8d2bdf9a825db1f46b0d98e2cc16.js": "./precache-manifest.f45a8d2bdf9a825db1f46b0d98e2cc16.js",
+  "precache-manifest.8a0ac0922b4d8b57fbc573f404ee49d8.js": "./precache-manifest.8a0ac0922b4d8b57fbc573f404ee49d8.js",
   "service-worker.js": "./service-worker.js"
 }

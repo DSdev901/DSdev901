@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "5470a08e55dc6fb55c7e",
+    "revision": "96eaae338bd8ef5f1380",
     "url": "./static/css/main.9e5c0765.chunk.css"
   },
   {
-    "revision": "5470a08e55dc6fb55c7e",
-    "url": "./static/js/main.5470a08e.chunk.js"
+    "revision": "96eaae338bd8ef5f1380",
+    "url": "./static/js/main.96eaae33.chunk.js"
   },
   {
     "revision": "e04cd450e9824253c1bd",
     "url": "./static/js/1.e04cd450.chunk.js"
   },
   {
-    "revision": "f1d943bf4f98a9c07f5a",
+    "revision": "a61989d3fbd14f96c0f8",
     "url": "./static/css/2.d44b4c4a.chunk.css"
   },
   {
-    "revision": "f1d943bf4f98a9c07f5a",
-    "url": "./static/js/2.f1d943bf.chunk.js"
+    "revision": "a61989d3fbd14f96c0f8",
+    "url": "./static/js/2.a61989d3.chunk.js"
   },
   {
     "revision": "274e1e54e0a930cc4c07",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "./static/media/mongodb-svgrepo-com.b94156fc.svg"
   },
   {
-    "revision": "68870e9ac97666c3478549953ec12042",
+    "revision": "1cc00f3b46b970a91d411ce3db936558",
     "url": "./index.html"
   }
 ];
