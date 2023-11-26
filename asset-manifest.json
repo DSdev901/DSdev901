@@ -5,8 +5,8 @@
   "static/js/1.e04cd450.chunk.js": "./static/js/1.e04cd450.chunk.js",
   "static/js/1.e04cd450.chunk.js.map": "./static/js/1.e04cd450.chunk.js.map",
   "static/css/2.d44b4c4a.chunk.css": "./static/css/2.d44b4c4a.chunk.css",
-  "static/js/2.9e1d9e20.chunk.js": "./static/js/2.9e1d9e20.chunk.js",
-  "static/js/2.9e1d9e20.chunk.js.map": "./static/js/2.9e1d9e20.chunk.js.map",
+  "static/js/2.f1d943bf.chunk.js": "./static/js/2.f1d943bf.chunk.js",
+  "static/js/2.f1d943bf.chunk.js.map": "./static/js/2.f1d943bf.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.274e1e54.js",
   "runtime~main.js.map": "./static/js/runtime~main.274e1e54.js.map",
   "static/media/bot-svgrepo-com.svg": "./static/media/bot-svgrepo-com.35b2477e.svg",
@@ -20,6 +20,6 @@
   "static/css/2.d44b4c4a.chunk.css.map": "./static/css/2.d44b4c4a.chunk.css.map",
   "static/css/main.9e5c0765.chunk.css.map": "./static/css/main.9e5c0765.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.4f3ad4ab17d9f9340eb6696c4bf05b60.js": "./precache-manifest.4f3ad4ab17d9f9340eb6696c4bf05b60.js",
+  "precache-manifest.edea3135a2f009e611db08ae133b7d88.js": "./precache-manifest.edea3135a2f009e611db08ae133b7d88.js",
   "service-worker.js": "./service-worker.js"
 }
