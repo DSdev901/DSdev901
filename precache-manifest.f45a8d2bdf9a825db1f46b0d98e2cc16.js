@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "./static/media/mongodb-svgrepo-com.b94156fc.svg"
   },
   {
-    "revision": "fd3c5967a4cbb19ba4012888a097654a",
+    "revision": "68870e9ac97666c3478549953ec12042",
     "url": "./index.html"
   }
 ];
