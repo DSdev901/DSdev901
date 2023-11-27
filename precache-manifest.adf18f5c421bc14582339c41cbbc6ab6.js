@@ -1,35 +1,35 @@
 self.__precacheManifest = [
   {
-    "revision": "d0ba6dd5193488d2a725",
-    "url": "./static/css/main.e6403726.chunk.css"
+    "revision": "4f3ec2e699558ec5e4bb",
+    "url": "./static/css/main.68e24c26.chunk.css"
   },
   {
-    "revision": "d0ba6dd5193488d2a725",
-    "url": "./static/js/main.d0ba6dd5.chunk.js"
+    "revision": "4f3ec2e699558ec5e4bb",
+    "url": "./static/js/main.4f3ec2e6.chunk.js"
   },
   {
-    "revision": "e2723de9d6e9385cbe1e",
-    "url": "./static/js/1.e2723de9.chunk.js"
+    "revision": "692a8372bce424561495",
+    "url": "./static/js/1.692a8372.chunk.js"
   },
   {
-    "revision": "07f12e037e0e26f2ec5d",
-    "url": "./static/css/2.af67d9ef.chunk.css"
+    "revision": "dd45b929fcbcd41e3f87",
+    "url": "./static/css/2.23edc306.chunk.css"
   },
   {
-    "revision": "07f12e037e0e26f2ec5d",
-    "url": "./static/js/2.07f12e03.chunk.js"
+    "revision": "dd45b929fcbcd41e3f87",
+    "url": "./static/js/2.dd45b929.chunk.js"
   },
   {
-    "revision": "699ac8f2ac140cdfe9a7",
-    "url": "./static/js/runtime~main.699ac8f2.js"
+    "revision": "bc9f44722a40a2962111",
+    "url": "./static/js/runtime~main.bc9f4472.js"
   },
   {
     "revision": "35b2477e7235502250f2097fe5809db1",
     "url": "./static/media/bot-svgrepo-com.35b2477e.svg"
   },
   {
-    "revision": "cb8a267a96cb22ec7cbd8e6dc6fbf694",
-    "url": "./static/media/white-brick.cb8a267a.jpeg"
+    "revision": "f79ae7ab35b7960caf2b786b0f8b15c4",
+    "url": "./static/media/white-pattern.f79ae7ab.jpeg"
   },
   {
     "revision": "ae92ef3b84f73708df03774f2d6f21ad",
@@ -44,6 +44,10 @@ self.__precacheManifest = [
     "url": "./static/media/node-js-svgrepo-com.42f9a280.svg"
   },
   {
+    "revision": "14d62238909023e0aa51e8742560bb41",
+    "url": "./static/media/javascript-svgrepo-com.14d62238.svg"
+  },
+  {
     "revision": "5bc184d4d842abc5b93cba9db1715b8d",
     "url": "./static/media/css-svgrepo-com.5bc184d4.svg"
   },
@@ -56,7 +60,7 @@ self.__precacheManifest = [
     "url": "./static/media/mongodb-svgrepo-com.b94156fc.svg"
   },
   {
-    "revision": "cd8d112c2e68075c3079684188531e84",
+    "revision": "c8ef99627528457957db81836054c10e",
     "url": "./index.html"
   }
 ];
