@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b3266fce8fadcd44caca",
-    "url": "./static/css/main.7d59903b.chunk.css"
+    "revision": "6b168c3d1647adb33b8e",
+    "url": "./static/css/main.90b8ca72.chunk.css"
   },
   {
-    "revision": "b3266fce8fadcd44caca",
-    "url": "./static/js/main.b3266fce.chunk.js"
+    "revision": "6b168c3d1647adb33b8e",
+    "url": "./static/js/main.6b168c3d.chunk.js"
   },
   {
     "revision": "692a8372bce424561495",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "./static/media/mongodb-svgrepo-com.b94156fc.svg"
   },
   {
-    "revision": "5341e80020223a433e19766bc7d74580",
+    "revision": "6babeb628090b15e9fd17376f758b64c",
     "url": "./index.html"
   }
 ];

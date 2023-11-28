@@ -1,7 +1,7 @@
 {
-  "main.css": "./static/css/main.7d59903b.chunk.css",
-  "main.js": "./static/js/main.b3266fce.chunk.js",
-  "main.js.map": "./static/js/main.b3266fce.chunk.js.map",
+  "main.css": "./static/css/main.90b8ca72.chunk.css",
+  "main.js": "./static/js/main.6b168c3d.chunk.js",
+  "main.js.map": "./static/js/main.6b168c3d.chunk.js.map",
   "static/js/1.692a8372.chunk.js": "./static/js/1.692a8372.chunk.js",
   "static/js/1.692a8372.chunk.js.map": "./static/js/1.692a8372.chunk.js.map",
   "static/css/2.23edc306.chunk.css": "./static/css/2.23edc306.chunk.css",
@@ -18,9 +18,9 @@
   "static/media/css-svgrepo-com.svg": "./static/media/css-svgrepo-com.5bc184d4.svg",
   "static/media/html-svgrepo-com.svg": "./static/media/html-svgrepo-com.70d93bdc.svg",
   "static/media/mongodb-svgrepo-com.svg": "./static/media/mongodb-svgrepo-com.b94156fc.svg",
-  "static/css/main.7d59903b.chunk.css.map": "./static/css/main.7d59903b.chunk.css.map",
   "static/css/2.23edc306.chunk.css.map": "./static/css/2.23edc306.chunk.css.map",
+  "static/css/main.90b8ca72.chunk.css.map": "./static/css/main.90b8ca72.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.3a05ec180be7573b3f8bed7aba810055.js": "./precache-manifest.3a05ec180be7573b3f8bed7aba810055.js",
+  "precache-manifest.64ba210fb538df24f63af71f96e4462b.js": "./precache-manifest.64ba210fb538df24f63af71f96e4462b.js",
   "service-worker.js": "./service-worker.js"
 }
